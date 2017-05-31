@@ -49,7 +49,7 @@ def parseLine(line, Data, year, leagueCounter):
     if (not leagueCounter in Data[year]):
         Data[year][leagueCounter] = {}
     leagueDict = Data[year][leagueCounter]
-    if "home goals" not in leagueDict.keys():
+    if "home goals" not in leagueDict:
         leagueDict["home goals"] = 0
         leagueDict["away goals"] = 0
     
@@ -123,4 +123,27 @@ for dirName, subdirList, fileList in os.walk(rootDir):
                     sys.exit("entered wrong file")
                     '''
                     #This error doesn't affect the data so keep going
-printData(Data)
+#printData(Data)
+
+#where league is a dictionary
+def findMeanPoints(league):
+    total = 0
+    teams = 1
+    for pos in league:
+        if(not pos.isdigit()):
+            continue
+        total += 3*league[pos]["wins"] + league[pos]["draws"]
+        teams = pos
+    return (float(total)/teams, teams)
+    
+#where league is a dictionary
+def standardDev(league):
+    meanTuple = findMeanPoints(league)
+    assert(meanTuple[0] > 0)
+    total = 0
+    for pos in league:
+        if(not pos.isdigit()):
+            continue
+        total += (3*league[pos]["wins"] + league[pos]["draws"] - meanTuple[0])**2
+    total = total/meanTuple[1]
+    return total**0.5
