@@ -11,7 +11,7 @@ def calc_our_metric(sim_league, act_league):
 	x = 0
 	for i in range(len(sim_league)):
 		x += (sim_league[i].points - act_league[i+1]['points'])**2
-	return sqrt(x)
+	return sqrt(x/len(sim_league))
 
 def fill_data():
 	Var_Data = {}
