@@ -53,4 +53,4 @@ def send_to_csv():
 		print("Done")
 		
 
-send_to_text()
+#send_to_text()

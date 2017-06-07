@@ -1,2 +1,6 @@
 # footyball-analysis
-checking collaboration stuff
+
+Before working: git pull
+After working: 	git add *
+				git commit -m "Some informative message"
+				git push origin master
