@@ -1,8 +1,10 @@
 import matplotlib as mpl
+import numpy as np
 mpl.use('TkAgg')
 import matplotlib.pyplot as plt
 from epl_table_simulation import SimTeam
 import variation_metrics
+from scipy.interpolate import spline
 
 
 Var_Data = variation_metrics.fill_data()
@@ -16,4 +18,15 @@ plt.title("Various Metrics")
 plt.xlabel("Year")
 leg = ["Act Table SD", "Sim Table SD", "XV Metric"]
 plt.legend(leg)
+
+poly_deg = 5
+coefs = np.polyfit(years_num, act_sd, poly_deg)
+y_poly = np.polyval(coefs, years_num)
+plt.plot(years_num, y_poly, 'b--')
+
+
+
+
+
+
 plt.show()
