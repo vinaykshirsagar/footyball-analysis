@@ -7,10 +7,15 @@ import variation_metrics
 
 Var_Data = variation_metrics.fill_data()
 years = sorted(Var_Data.keys())
-years_num = [int(year[:4]) for year in years]
+years_num = [int(year[:4]) for year in years if 2 in Var_Data[year]]
+'''
 act_sd = [Var_Data[year][1]['act table SD'] for year in years]
 sim_sd = [Var_Data[year][1]['sim table SD'] for year in years]
 xv_metric = [Var_Data[year][1]['our metric'] for year in years]
+'''
+act_sd = [Var_Data[year][2]['act table SD'] for year in years if 2 in Var_Data[year]]
+sim_sd = [Var_Data[year][2]['sim table SD'] for year in years if 2 in Var_Data[year]]
+xv_metric = [Var_Data[year][2]['our metric'] for year in years if 2 in Var_Data[year]]
 plt.plot(years_num, act_sd, 'b', years_num, sim_sd, 'g', years_num, xv_metric, 'r')
 plt.title("Various Metrics")
 plt.xlabel("Year")
