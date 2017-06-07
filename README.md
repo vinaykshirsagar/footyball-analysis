@@ -4,4 +4,4 @@ Before working: git pull
 After working: 	git add *
 				git commit -m "Some informative message"
 				git push origin master
-"'Hi' -Xavier" -Vinay
+"'"Hi" -Xavier' -Vinay" -Xavier
