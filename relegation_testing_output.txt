@@ -1,0 +1,279 @@
+Teams relegated after 1888-89 season: []
+Teams promoted after 1888-89 season: []
+
+Teams relegated after 1889-90 season: ['Stoke City']
+Teams promoted after 1889-90 season: ['Sunderland']
+
+Teams relegated after 1890-91 season: []
+Teams promoted after 1890-91 season: ['Darwen', 'Stoke City']
+
+Teams relegated after 1891-92 season: ['Darwen']
+Teams promoted after 1891-92 season: ['Sheffield Wednesday', 'Manchester United', 'Nottingham Forest']
+
+Teams relegated after 1892-93 season: ['Accrington F.C.', 'Notts County']
+Teams promoted after 1892-93 season: ['Darwen', 'Sheffield United']
+
+Teams relegated after 1893-94 season: ['Darwen', 'Manchester United']
+Teams promoted after 1893-94 season: ['Birmingham City', 'Liverpool']
+
+Teams relegated after 1894-95 season: ['Liverpool']
+Teams promoted after 1894-95 season: ['Bury']
+
+Teams relegated after 1895-96 season: ['Birmingham City']
+Teams promoted after 1895-96 season: ['Liverpool']
+
+Teams relegated after 1896-97 season: ['Burnley']
+Teams promoted after 1896-97 season: ['Notts County']
+
+Teams relegated after 1897-98 season: []
+Teams promoted after 1897-98 season: ['Burnley', 'Newcastle United']
+
+Teams relegated after 1908-09 season: ['Leicester City', 'Manchester City']
+Teams promoted after 1908-09 season: ['Bolton Wanderers', 'Tottenham Hotspur']
+
+Teams relegated after 1909-10 season: ['Bolton Wanderers', 'Chelsea']
+Teams promoted after 1909-10 season: ['Manchester City', 'Oldham Athletic']
+
+Teams relegated after 1910-11 season: ['Nottingham Forest', 'Bristol City']
+Teams promoted after 1910-11 season: ['West Bromwich Albion', 'Bolton Wanderers']
+
+Teams relegated after 1911-12 season: ['Preston North End', 'Bury']
+Teams promoted after 1911-12 season: ['Chelsea', 'Derby County']
+
+Teams relegated after 1912-13 season: ['Arsenal', 'Notts County']
+Teams promoted after 1912-13 season: ['Burnley', 'Preston North End']
+
+Teams relegated after 1913-14 season: ['Preston North End', 'Derby County']
+Teams promoted after 1913-14 season: ['Notts County', 'Bradford Park Avenue']
+
+Teams relegated after 1919-20 season: ['Sheffield Wednesday', 'Notts County']
+Teams promoted after 1919-20 season: ['Huddersfield Town', 'Tottenham Hotspur']
+
+Teams relegated after 1920-21 season: ['Derby County', 'Bradford Park Avenue']
+Teams promoted after 1920-21 season: ['Birmingham City', 'Cardiff City']
+
+Teams relegated after 1921-22 season: ['Manchester United', 'Bradford City']
+Teams promoted after 1921-22 season: ['Stoke City', 'Nottingham Forest']
+
+Teams relegated after 1922-23 season: ['Stoke City', 'Oldham Athletic']
+Teams promoted after 1922-23 season: ['West Ham United', 'Notts County']
+
+Teams relegated after 1923-24 season: ['Middlesbrough', 'Chelsea']
+Teams promoted after 1923-24 season: ['Leeds United', 'Bury']
+
+Teams relegated after 1924-25 season: ['Nottingham Forest', 'Preston North End']
+Teams promoted after 1924-25 season: ['Leicester City', 'Manchester United']
+
+Teams relegated after 1925-26 season: ['Manchester City', 'Notts County']
+Teams promoted after 1925-26 season: ['Sheffield Wednesday', 'Derby County']
+
+Teams relegated after 1926-27 season: ['Leeds United', 'West Bromwich Albion']
+Teams promoted after 1926-27 season: ['Middlesbrough', 'Portsmouth']
+
+Teams relegated after 1927-28 season: ['Middlesbrough', 'Tottenham Hotspur']
+Teams promoted after 1927-28 season: ['Leeds United', 'Manchester City']
+
+Teams relegated after 1928-29 season: ['Cardiff City', 'Bury']
+Teams promoted after 1928-29 season: ['Middlesbrough', 'Grimsby Town']
+
+Teams relegated after 1929-30 season: ['Everton', 'Burnley']
+Teams promoted after 1929-30 season: ['Blackpool', 'Chelsea']
+
+Teams relegated after 1930-31 season: ['Leeds United', 'Manchester United']
+Teams promoted after 1930-31 season: ['Everton', 'West Bromwich Albion']
+
+Teams relegated after 1931-32 season: ['Grimsby Town', 'West Ham United']
+Teams promoted after 1931-32 season: ['Wolverhampton Wanderers', 'Leeds United']
+
+Teams relegated after 1932-33 season: ['Blackpool', 'Bolton Wanderers']
+Teams promoted after 1932-33 season: ['Stoke City', 'Tottenham Hotspur']
+
+Teams relegated after 1933-34 season: ['Newcastle United', 'Sheffield United']
+Teams promoted after 1933-34 season: ['Grimsby Town', 'Preston North End']
+
+Teams relegated after 1934-35 season: ['Leicester City', 'Tottenham Hotspur']
+Teams promoted after 1934-35 season: ['Brentford', 'Bolton Wanderers']
+
+Teams relegated after 1935-36 season: ['Blackburn Rovers', 'Aston Villa']
+Teams promoted after 1935-36 season: ['Manchester United', 'Charlton Athletic']
+
+Teams relegated after 1936-37 season: ['Sheffield Wednesday', 'Manchester United']
+Teams promoted after 1936-37 season: ['Leicester City', 'Blackpool']
+
+Teams relegated after 1937-38 season: ['Manchester City', 'West Bromwich Albion']
+Teams promoted after 1937-38 season: ['Manchester United', 'Aston Villa']
+
+Teams relegated after 1938-39 season: ['Leicester City', 'Birmingham City']
+Teams promoted after 1938-39 season: ['Sheffield United', 'Blackburn Rovers']
+
+Teams relegated after 1946-47 season: ['Leeds United', 'Brentford']
+Teams promoted after 1946-47 season: ['Manchester City', 'Burnley']
+
+Teams relegated after 1947-48 season: ['Grimsby Town', 'Blackburn Rovers']
+Teams promoted after 1947-48 season: ['Newcastle United', 'Birmingham City']
+
+Teams relegated after 1948-49 season: ['Sheffield United', 'Preston North End']
+Teams promoted after 1948-49 season: ['Fulham', 'West Bromwich Albion']
+
+Teams relegated after 1949-50 season: ['Manchester City', 'Birmingham City']
+Teams promoted after 1949-50 season: ['Sheffield Wednesday', 'Tottenham Hotspur']
+
+Teams relegated after 1950-51 season: ['Everton', 'Sheffield Wednesday']
+Teams promoted after 1950-51 season: ['Manchester City', 'Preston North End']
+
+Teams relegated after 1951-52 season: ['Fulham', 'Huddersfield Town']
+Teams promoted after 1951-52 season: ['Sheffield Wednesday', 'Cardiff City']
+
+Teams relegated after 1952-53 season: ['Stoke City', 'Derby County']
+Teams promoted after 1952-53 season: ['Huddersfield Town', 'Sheffield United']
+
+Teams relegated after 1953-54 season: ['Middlesbrough', 'Liverpool']
+Teams promoted after 1953-54 season: ['Everton', 'Leicester City']
+
+Teams relegated after 1954-55 season: ['Sheffield Wednesday', 'Leicester City']
+Teams promoted after 1954-55 season: ['Luton Town', 'Birmingham City']
+
+Teams relegated after 1955-56 season: ['Huddersfield Town', 'Sheffield United']
+Teams promoted after 1955-56 season: ['Sheffield Wednesday', 'Leeds United']
+
+Teams relegated after 1956-57 season: ['Cardiff City', 'Charlton Athletic']
+Teams promoted after 1956-57 season: ['Leicester City', 'Nottingham Forest']
+
+Teams relegated after 1957-58 season: ['Sheffield Wednesday', 'Sunderland']
+Teams promoted after 1957-58 season: ['Blackburn Rovers', 'West Ham United']
+
+Teams relegated after 1958-59 season: ['Portsmouth', 'Aston Villa']
+Teams promoted after 1958-59 season: ['Sheffield Wednesday', 'Fulham']
+
+Teams relegated after 1959-60 season: ['Luton Town', 'Leeds United']
+Teams promoted after 1959-60 season: ['Cardiff City', 'Aston Villa']
+
+Teams relegated after 1960-61 season: ['Newcastle United', 'Preston North End']
+Teams promoted after 1960-61 season: ['Sheffield United', 'Ipswich Town']
+
+Teams relegated after 1961-62 season: ['Cardiff City', 'Chelsea']
+Teams promoted after 1961-62 season: ['Leyton Orient', 'Liverpool']
+
+Teams relegated after 1962-63 season: ['Leyton Orient', 'Manchester City']
+Teams promoted after 1962-63 season: ['Stoke City', 'Chelsea']
+
+Teams relegated after 1963-64 season: ['Bolton Wanderers', 'Ipswich Town']
+Teams promoted after 1963-64 season: ['Leeds United', 'Sunderland']
+
+Teams relegated after 1964-65 season: ['Wolverhampton Wanderers', 'Birmingham City']
+Teams promoted after 1964-65 season: ['Newcastle United', 'Northampton Town']
+
+Teams relegated after 1965-66 season: ['Blackburn Rovers', 'Northampton Town']
+Teams promoted after 1965-66 season: ['Manchester City', 'Southampton']
+
+Teams relegated after 1966-67 season: ['Blackpool', 'Aston Villa']
+Teams promoted after 1966-67 season: ['Wolverhampton Wanderers', 'Coventry City']
+
+Teams relegated after 1967-68 season: ['Fulham', 'Sheffield United']
+Teams promoted after 1967-68 season: ['Queens Park Rangers', 'Ipswich Town']
+
+Teams relegated after 1968-69 season: ['Leicester City', 'Queens Park Rangers']
+Teams promoted after 1968-69 season: ['Crystal Palace', 'Derby County']
+
+Teams relegated after 1969-70 season: ['Sheffield Wednesday', 'Sunderland']
+Teams promoted after 1969-70 season: ['Huddersfield Town', 'Blackpool']
+
+Teams relegated after 1970-71 season: ['Burnley', 'Blackpool']
+Teams promoted after 1970-71 season: ['Leicester City', 'Sheffield United']
+
+Teams relegated after 1971-72 season: ['Huddersfield Town', 'Nottingham Forest']
+Teams promoted after 1971-72 season: ['Norwich City', 'Birmingham City']
+
+Teams relegated after 1972-73 season: ['West Bromwich Albion', 'Crystal Palace']
+Teams promoted after 1972-73 season: ['Burnley', 'Queens Park Rangers']
+
+Teams relegated after 1973-74 season: ['Norwich City', 'Manchester United', 'Southampton']
+Teams promoted after 1973-74 season: ['Luton Town', 'Middlesbrough', 'Carlisle United']
+
+Teams relegated after 1974-75 season: ['Luton Town', 'Chelsea', 'Carlisle United']
+Teams promoted after 1974-75 season: ['Norwich City', 'Manchester United', 'Aston Villa']
+
+Teams relegated after 1975-76 season: ['Wolverhampton Wanderers', 'Burnley', 'Sheffield United']
+Teams promoted after 1975-76 season: ['West Bromwich Albion', 'Sunderland', 'Bristol City']
+
+Teams relegated after 1976-77 season: ['Stoke City', 'Sunderland', 'Tottenham Hotspur']
+Teams promoted after 1976-77 season: ['Wolverhampton Wanderers', 'Nottingham Forest', 'Chelsea']
+
+Teams relegated after 1977-78 season: ['Leicester City', 'Newcastle United', 'West Ham United']
+Teams promoted after 1977-78 season: ['Bolton Wanderers', 'Southampton', 'Tottenham Hotspur']
+
+Teams relegated after 1978-79 season: ['Birmingham City', 'Chelsea', 'Queens Park Rangers']
+Teams promoted after 1978-79 season: ['Stoke City', 'Brighton & Hove Albion', 'Crystal Palace']
+
+Teams relegated after 1979-80 season: ['Bolton Wanderers', 'Bristol City', 'Derby County']
+Teams promoted after 1979-80 season: ['Leicester City', 'Birmingham City', 'Sunderland']
+
+Teams relegated after 1980-81 season: ['Norwich City', 'Leicester City', 'Crystal Palace']
+Teams promoted after 1980-81 season: ['West Ham United', 'Swansea City', 'Notts County']
+
+Teams relegated after 1981-82 season: ['Wolverhampton Wanderers', 'Leeds United', 'Middlesbrough']
+Teams promoted after 1981-82 season: ['Luton Town', 'Watford', 'Norwich City']
+
+Teams relegated after 1982-83 season: ['Manchester City', 'Brighton & Hove Albion', 'Swansea City']
+Teams promoted after 1982-83 season: ['Wolverhampton Wanderers', 'Leicester City', 'Queens Park Rangers']
+
+Teams relegated after 1983-84 season: ['Wolverhampton Wanderers', 'Birmingham City', 'Notts County']
+Teams promoted after 1983-84 season: ['Sheffield Wednesday', 'Newcastle United', 'Chelsea']
+
+Teams relegated after 1984-85 season: ['Norwich City', 'Stoke City', 'Sunderland']
+Teams promoted after 1984-85 season: ['Manchester City', 'Birmingham City', 'Oxford United']
+
+Teams relegated after 1985-86 season: ['West Bromwich Albion', 'Birmingham City', 'Ipswich Town']
+Teams promoted after 1985-86 season: ['Norwich City', 'Wimbledon', 'Charlton Athletic']
+
+Teams relegated after 1986-87 season: ['Leicester City', 'Manchester City', 'Aston Villa']
+Teams promoted after 1986-87 season: ['Portsmouth', 'Derby County']
+
+Teams relegated after 1987-88 season: ['Watford', 'Portsmouth', 'Chelsea', 'Oxford United']
+Teams promoted after 1987-88 season: ['Middlesbrough', 'Millwall', 'Aston Villa']
+
+Teams relegated after 1988-89 season: ['Middlesbrough', 'Newcastle United', 'West Ham United']
+Teams promoted after 1988-89 season: ['Manchester City', 'Chelsea', 'Crystal Palace']
+
+Teams relegated after 1989-90 season: ['Sheffield Wednesday', 'Millwall', 'Charlton Athletic']
+Teams promoted after 1989-90 season: ['Leeds United', 'Sheffield United', 'Sunderland']
+
+Teams relegated after 1990-91 season: ['Sunderland', 'Derby County']
+Teams promoted after 1990-91 season: ['Sheffield Wednesday', 'West Ham United', 'Oldham Athletic', 'Notts County']
+
+Teams relegated after 1991-92 season: ['Luton Town', 'West Ham United', 'Notts County']
+Teams promoted after 1991-92 season: ['Middlesbrough', 'Blackburn Rovers', 'Ipswich Town']
+
+Teams relegated after 1992-93 season: ['Sheffield Wednesday', 'Middlesbrough', 'Nottingham Forest', 'Blackburn Rovers', 'Ipswich Town', 'Leeds United', 'Queens Park Rangers', 'Coventry City', 'Manchester City', 'Manchester United', 'Norwich City', 'Oldham Athletic', 'Tottenham Hotspur', 'Crystal Palace']
+Teams promoted after 1992-93 season: ['Leeds', 'Tottenham', 'Ipswich', 'Newcastle', 'Oldham', 'West Ham', 'Man United', 'Coventry', 'Sheffield Weds', 'Man City', 'Blackburn', 'Swindon', 'QPR', 'Norwich']
+
+Teams relegated after 1993-94 season: ['Oldham', 'Sheffield United', 'Swindon']
+Teams promoted after 1993-94 season: ["Nott'm Forest", 'Crystal Palace', 'Leicester']
+
+Teams relegated after 1994-95 season: ['Norwich', 'Ipswich', 'Crystal Palace', 'Leicester']
+Teams promoted after 1994-95 season: ['Middlesbrough', 'Bolton']
+
+Teams relegated after 1995-96 season: ['Bolton', 'Man City', 'QPR']
+Teams promoted after 1995-96 season: ['Sunderland', 'Derby', 'Leicester']
+
+Teams relegated after 1996-97 season: ['Middlesbrough', "Nott'm Forest", 'Sunderland']
+Teams promoted after 1996-97 season: ['Crystal Palace', 'Bolton', 'Barnsley']
+
+Teams relegated after 1997-98 season: ['Crystal Palace', 'Bolton', 'Barnsley']
+Teams promoted after 1997-98 season: ['Middlesbrough', "Nott'm Forest", 'Charlton']
+
+Teams relegated after 2008-09 season: ['Middlesbrough', 'West Brom', 'Newcastle']
+Teams promoted after 2008-09 season: ['Burnley', 'Birmingham', 'Wolves']
+
+Teams relegated after 2009-10 season: ['Burnley', 'Portsmouth', 'Hull']
+Teams promoted after 2009-10 season: ['West Brom', 'Blackpool', 'Newcastle']
+
+Teams relegated after 2010-11 season: ['West Ham', 'Blackpool', 'Birmingham']
+Teams promoted after 2010-11 season: ['Swansea', 'QPR', 'Norwich']
+
+Teams relegated after 2011-12 season: ['Bolton', 'Wolves', 'Blackburn']
+Teams promoted after 2011-12 season: ['West Ham', 'Southampton', 'Reading']
+
+Teams relegated after 2012-13 season: ['Wigan', 'QPR', 'Reading']
+Teams promoted after 2012-13 season: ['Crystal Palace', 'Cardiff', 'Hull']
+
