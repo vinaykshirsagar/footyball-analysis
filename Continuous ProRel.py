@@ -1,11 +1,43 @@
 
 
+
+
 #Dictionaries associates team with the year of changed league and point tally in that league.
 #There is a dictionary for promoted teams and a dictionary for relegated teams.
 
 #Code intended for promotion and relegation from first league
 
 from parse_text import Data
+
+
+#looks up to see if this team name has an alias and returns the team name to proceed with
+#it would be more efficient to change the csv/txt files themselves or to change the parsing
+#code but this is quick fix to test this code
+
+
+def checkAlt(name):
+	if name not in alternates:
+		return name
+	else:
+		return alternates[name]
+	
+
+#This dictionary is probably complete but there is a chance I could have missed some
+alternates = {'Man United': 'Manchester United', 'Man City': 'Manchester City', 'Norwich': 'Norwich City', 
+     'Sheffield Weds': 'Sheffield Wednesday', 'Nott\'m Forest': 'Nottingham Forest', 'QPR': 'Queens Park Rangers',
+     'Leeds': 'Leeds United', 'Tottenham': 'Tottenham Hotspur', 'Oldham': 'Oldham Athletic', 'Blackburn': 'Blackburn Rovers',
+     'Coventry': 'Coventry City', 'Ipswich': 'Ipswich Town', 'Newcastle United': 'Newcastle', 'Wolves': 'Wolverhampton Wanderers',
+     'Tranmere': 'Tranmere Rovers', 'Leicester': 'Leicester City', 'Derby': 'Derby County', 'Stoke': 'Stoke City',
+     'Charlton': 'Charlton Athletic', 'Grimsby': 'Grimsby Town', 'Peterboro': 'Peterborough United',
+     'Bolton': 'Bolton Wanderers', 'Southend': 'Southend United', 'Luton Town': 'Luton Town',
+     'West Brom': 'West Bromwich Albion', 'Birmingham': 'Birmingham City', 'Oxford': 'Oxford United',
+     'Plymouth': 'Plymouth Argyle', 'Stockport': 'Stockport County', 'Bradford': 'Bradford City',
+     'Hull': 'Hull City', 'Bristol Rvs': 'Bristol Rovers', 'Cambridge': 'Cambridge United',
+     'Huddersfield': 'Huddersfield Town', 'Swansea': 'Swansea City', 'Brighton': 'Brighton & Hove Albion',
+     'Rotherham': 'Rotherham United', 'Bournemouth': 'AFC Bournemouth', 'Exeter': 'Exeter City',
+     'Hartlepool': 'Hartlepool United', 'Preston': 'Preston North End', 'Mansfield': 'Mansfield Town',
+     'Wigan': 'Wigan Athletic'
+}
 
 years = sorted(list(Data.keys()))
 
@@ -43,13 +75,13 @@ for year in years:
 				toBeRelegated[Data[year][1][pos]["name"]]["Points"] = -1
 				teamsEcountered.append(Data[year][1][pos]["name"])
 			'''
-			thisYear.add(Data[year][1][pos]["name"])
+			thisYear.add(checkAlt(Data[year][1][pos]["name"]))
 	promoted = thisYear - lastYear
 	relegated = lastYear - thisYear
 	for team in promoted:
-		if team in toBePromoted:
-			returnTime = yearCount - toBePromoted[team]["Year"]
-			print("Return time: ", surviveTime)
+		if checkAlt(team) in toBePromoted:
+			returnTime = yearCount - toBePromoted[checkAlt(team)]["Year"]
+			print("\nReturn time: ", surviveTime)
 			if returnTime == 1:
 				returnedInOneYearCount += 1
 			if returnTime <= 3:
@@ -58,19 +90,19 @@ for year in years:
 				returnedInFiveYearCount += 1
 			if returnTime <= 10:
 				returnedInTenYearCount += 1
-			toBePromoted.pop(team)
+			toBePromoted.pop(checkAlt(team))
 			riseCount += 1
 			
 		#add team to toBeRelegated
 		
-		toBeRelegated[team] = {}
-		toBeRelegated[team]["Year"] = yearCount
+		toBeRelegated[checkAlt(team)] = {}
+		toBeRelegated[checkAlt(team)]["Year"] = yearCount
 		print(team, "was promoted in ", yearCount)
 		#toBeRelegated[team]["Points"] = #more code will be needed to get the points, figure this out once the other stuff works
 	for team in relegated:
-		if team in toBeRelegated:
-			surviveTime = yearCount - toBeRelegated[team]["Year"]
-			print("Survivetime: ", surviveTime)
+		if checkAlt(team) in toBeRelegated:
+			surviveTime = yearCount - toBeRelegated[checkAlt(team)]["Year"]
+			print("\nSurvivetime: ", surviveTime)
 			if surviveTime >= 10:
 				survivedTenYearCount += 1
 			if surviveTime >= 5:
@@ -79,14 +111,13 @@ for year in years:
 				survivedThreeYearCount += 1
 			if surviveTime > 1:
 				survivedOneYearCount += 1
-				print("Survived one year")
 				
-			toBeRelegated.pop(team)
+			toBeRelegated.pop(checkAlt(team))
 			dropCount += 1
 		
-		toBePromoted[team] = {}
-		toBePromoted[team]["Year"] = yearCount
-		print(team, "was relegated in ", yearCount)
+		toBePromoted[checkAlt(team)] = {}
+		toBePromoted[checkAlt(team)]["Year"] = yearCount
+		print(checkAlt(team), "was relegated in ", yearCount)
 	lastYear = thisYear
 	
 	yearCount += 1
